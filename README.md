@@ -9,3 +9,4 @@
 - [ ] [HumanParsing](https://github.com/LinaShanghaitech/JobSeeking/blob/master/humanparsing.md)
 - [ ] [Python](https://github.com/LinaShanghaitech/JobSeeking/blob/master/Python.md)
 - [ ] [C++](https://github.com/LinaShanghaitech/JobSeeking/blob/master/Cplus.md)
+- [ ] [Project](https://github.com/LinaShanghaitech/JobSeeking/blob/master/Project.md)
