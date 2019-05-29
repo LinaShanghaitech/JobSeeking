@@ -13,7 +13,17 @@
 - [ ] BN、IN、LN、GN原理，BN为什么有效
 - [ ] InceptionV1为什么能提升性能
 - [ ] 加了BN后做predict均值方差从哪来、常用的attention举例  
-- [ ]
+- [ ] BN原理 有几个可训练参数 训练预测的时候分别怎么做
+- [ ] Dropout原理 有几个可训练参数 训练预测的时候分别怎么做
+- [ ] 卷积 池化 输出尺寸大小 可训练参数计算
+- [ ] loss不降怎么办；vali loss不升（过拟合）怎么办  
+- [ ] Maxpool和Average Pool哪个好
+- [ ] 解释一下resnet  
+- [ ] 求IOU 口述
+- [ ] 上采样方法，反卷积
+- [ ] 普通卷积和resnet block的参数量、计算量，并对比两种结构
+- [ ] 如何解决过拟合？
+- [ ]  线程和进程的区别？
 
 
 
@@ -23,38 +33,19 @@
 - [ ] 普通卷积和resnet block的参数量、计算量，并对比两种结构
 
 #### 激活函数
-- [ ]
+- [ ] sigmoid函数求导  
+- [ ] 手推lr
+- [ ] Softmax的梯度是什么
 
 #### 优化器 
 - [ ] optimizer（从一阶矩估计到二阶)
 
-#### 检测
-- [ ] rcnn到faster rcnn，介绍一下，然后具体每一步操作都问的很细，roi pooling具体怎么做的、RPN是怎么做的，输入输出是什么
-- [ ] faster rcnn的最后输出大小是多少、它的正负样本是怎么选择的  
-- [ ] nms具体怎么做的，假设这是一个函数，那么这个函数输入输出是什么，中间操作又是怎么做的
-- [ ] Focal Loss 原理  
-- [ ] One-Stage\Two-Stage  SSD原理  
-- [ ] IoUNet的原理  
-- [ ] 轻量级的检测器  
-- [ ] NMS和soft-NMS原理  
-- [ ] SSD和Faster-RCNN，说一下异同点  
-- [ ] Faster-RCNN的回归目标是如何定义的  
-- [ ] Faster-RCNN用的什么loss, smooth L1 loss为什么更有效 
-- [ ] 多尺度训练如何设置  
-- [ ] 为什么设置长边为固定的1600  
-- [ ] roi align \ roi pooling 
-- [ ] RPN哪里也可以提升小目标检出率 
-- [ ] 为什么说resnet101不适用于目标检测  
-- [ ] 小目标在FPN的什么位置检测 
-- [ ] detnet 
-- [ ] 手写nms
-- [ ] 一个图片中有一个很大的目标还有一个很小的目标
-- [ ] 大目标如果有2个候选框和gt重合应该怎么处理  
-- [ ] 视觉的attention
-
-#### 分割
-- [ ] deeplab 
-- [ ] CRF
+#### 深度学习框架
+- [ ] Pytorch的卷积是如何实现的
+#### 评价指标 
+- [ ] f1 score中1的含义  
+- [ ] acc与auc的选择 
+- [ ] 手写计算AUC曲面面积的代码
 
 #### 其他
 - [ ] 数据有噪声怎么办  
