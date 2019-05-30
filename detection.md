@@ -29,8 +29,8 @@
 - [ ] ROI Align的作用    
 - [ ] 跟SSD YOLO有啥不同  
 - [ ] 解释一下FPN  
-- [ ] rcnn到faster rcnn，介绍一下，然后具体每一步操作都问的很细，roi pooling具体怎么做的、RPN是怎么做的，输入输出是什么
-- [ ] faster rcnn的最后输出大小是多少、它的正负样本是怎么选择的  
+- [ ] RCNN 到Faster-RCNN，介绍一下，然后具体每一步操作都问的很细，roi pooling具体怎么做的、RPN是怎么做的，输入输出是什么
+- [ ] Faster-RCNN的最后输出大小是多少、它的正负样本是怎么选择的  
 - [ ] nms具体怎么做的，假设这是一个函数，那么这个函数输入输出是什么，中间操作又是怎么做的
 - [ ] Focal Loss 原理  
 - [ ] One-Stage\Two-Stage
@@ -52,7 +52,7 @@
 - [ ] 大目标如果有2个候选框和gt重合应该怎么处理  
 - [ ] 视觉的attention
 - [ ] mobilenet(DepthWise convolution)  
-- [ ] Faster RCNN的损失函数  
+- [ ] Faster-RCNN的损失函数  
 - [ ] 针对小目标的解决措施
 - [ ] 如何解决类内的检测
 - [ ] 说一下Faster-RCNN的整个从输入到输出的框架流程　　
