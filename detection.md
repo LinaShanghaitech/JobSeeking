@@ -12,7 +12,7 @@
   
 #### One-Stage 
 - SSD
-- YoLO
+- YOLO
 #### Two-Stage 
 - Faster-RCNN
 - FPN
@@ -23,8 +23,8 @@
 
 
 #### 常见问题
-- [ ] faster RCNN 跟fast Rcnn有啥不同
-- [ ] SSD细节 SSD怎么改动变成FasterRCNN    
+- [ ] Faster-RCNN 跟 Fast-RCNN有啥不同
+- [ ] SSD细节 SSD怎么改动变成Faster-RCNN    
 - [ ] RPN的作用  
 - [ ] ROI Align的作用    
 - [ ] 跟SSD YOLO有啥不同  
@@ -33,7 +33,7 @@
 - [ ] faster rcnn的最后输出大小是多少、它的正负样本是怎么选择的  
 - [ ] nms具体怎么做的，假设这是一个函数，那么这个函数输入输出是什么，中间操作又是怎么做的
 - [ ] Focal Loss 原理  
-- [ ] One-Stage\Two-Stage  SSD原理  
+- [ ] One-Stage\Two-Stage
 - [ ] IoUNet的原理  
 - [ ] 轻量级的检测器  
 - [ ] NMS和soft-NMS原理  
@@ -55,8 +55,7 @@
 - [ ] Faster RCNN的损失函数  
 - [ ] 针对小目标的解决措施
 - [ ] 如何解决类内的检测
-- [ ] 说一下faster-rcnn的整个从输入到输出的框架流程　　
-- [ ] focal loss具体怎么操作的   
+- [ ] 说一下Faster-RCNN的整个从输入到输出的框架流程　　
 - [ ] 如果有很长，很小，或者很宽的目标，应该如何处理
 - [ ] FPN的特征融合具体是怎么做的
 - [ ] FPN的特征融合为什么是相加操作呢
