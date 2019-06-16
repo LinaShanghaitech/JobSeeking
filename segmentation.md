@@ -7,12 +7,6 @@
 - [ ] Unet结构　
 - [ ] SENet的模块
 - [ ] 为什么说SENet泛化性好
-- [ ] mIOU
-- [ ] Unet结构　
-- [ ] SENet的模块
-- [ ] Unet结构　
-- [ ] SENet的模块
-- [ ] Unet结构　
-- [ ] SENet的模块
+
 
   
